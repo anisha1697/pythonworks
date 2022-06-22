@@ -1,0 +1,15 @@
+lst=[10,11,11,12,13,1,1]
+st=set(lst)
+print(set(lst))
+st1={1,2,3,4,5,6}
+st2={10,11,12,13,14,1,2}
+union_set=st1.union(st2)
+print(union_set)
+intersection_set=st1.intersection(st2)
+print(intersection_set)
+difference_set=st2.difference(st1)
+print(difference_set)
+students=["ram","ravi","thomas","karthik","akhil"]
+passed_students=["ram","ravi","thomas"]
+failed_students=set(students).difference(set(passed_students))
+print(failed_students)
