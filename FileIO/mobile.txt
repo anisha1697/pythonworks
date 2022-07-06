@@ -1,0 +1,4 @@
+Iphone,150000,128gb,5g
+samsung,50000,128gb,4g
+oneplus,45000,64gb,3g
+vivo,19000,64gb,2g

@@ -2,6 +2,9 @@ names=["c++","c","jaava","python","script"]
 for i in range(0,len(names)):
     print(names[i])
 
+
+
+
 numbers=[13,14,15,16,17,18]
 for num in numbers:
  if num%2==0:
